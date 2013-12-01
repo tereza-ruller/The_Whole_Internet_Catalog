@@ -1,0 +1,47 @@
+History of Internet
+
+http://en.wikipedia.org/wiki/History_of_the_Internet
+
+1950: 
+development of electronic computers
+
+1960:
+A fundamental pioneer in the call for a global network, J. C. R. Licklider, articulated the ideas in his January 1960 paper, Man-Computer Symbiosis.: "A network of such [computers], connected to one another by wide-band communication lines [which provided] the functions of present-day libraries together with anticipated advances in information storage and retrieval and [other] symbiotic functions."
+
+late 60s: 
+a message was sent over the ARPANet from computer science Professor Leonard Kleinrock's laboratory at University of California, Los Angeles (UCLA), after the second piece of network equipment was installed at Stanford Research Institute (SRI). The ARPANET in particular led to the development of protocols for internetworking, in which multiple separate networks could be joined together into a network of networks.
+
+1981: 
+access to the Arpanet was expanded
+the National Science Foundation (NSF) developed the Computer Science Network (CSNET)
+
+1982: 
+the Internet protocol suite (TCP/IP)
+
+1986: 
+NSFNET provided access to supercomputer sites in the United States from research and education organizations
+
+mid 80s:
+NASA developed the TCP/IP based NASA Science Network (NSN), connecting space scientists to data and information stored anywhere in the world. In 1989, the DECnet-based Space Physics Analysis Network (SPAN) and the TCP/IP-based NASA Science Network (NSN) were brought together at NASA Ames Research Center creating the first multiprotocol wide area network called the NASA Science Internet, or NSI. NSI was established to provide a totally integrated communications infrastructure to the NASA scientific community for the advancement of earth, space and life sciences. As a high-speed, multiprotocol, international network, NSI provided connectivity to over 20,000 scientists across all seven continents.
+
+late 80s:
+Commercial Internet service providers (ISPs) began to emerge
+
+1990:
+The ARPANET was decommissioned
+
+1995:
+Commercialization of Internet, when NSFNET was decommissioned, removing the last restrictions on the use of the Internet to carry commercial traffic.
+
+mid-1990s:
+Since then the Internet has had a revolutionary impact on culture and commerce, including the rise of near-instant communication by electronic mail, instant messaging, Voice over Internet Protocol (VoIP) "phone calls", two-way interactive video calls, and the World Wide Web with its discussion forums, blogs, social networking, and online shopping sites. The research and education community continues to develop and use advanced networks such as NSF's very high speed Backbone Network Service (vBNS), Internet2, and National LambdaRail. Increasing amounts of data are transmitted at higher and higher speeds over fiber optic networks operating at 1-Gbit/s, 10-Gbit/s, or more. The Internet's takeover of the global communication landscape was almost instant in historical terms: it only communicated 1% of the information flowing through two-way telecommunications networks in the year 1993, already 51% by 2000, and more than 97% of the telecommunicated information by 2007.[1] Today the Internet continues to grow, driven by ever greater amounts of online information, commerce, entertainment, and social networking.
+
+2005:
+the World Summit on the Information Society, held in Tunis, called for an Internet Governance Forum (IGF) to be convened by United Nations Secretary General. The IGF opened an ongoing, non-binding conversation among stakeholders representing governments, the private sector, civil society, and the technical and academic communities about the future of Internet governance. The first IGF meeting was held in October/November 2006 with follow up meetings annually thereafter.[80] Since WSIS, the term "Internet governance" has been broadened beyond narrow technical concerns to include a wider range of Internet-related policy issues.
+
+2010:
+The first live Internet link into low earth orbit was established on January 22, 2010 when astronaut T. J. Creamer posted the first unassisted update to his Twitter account from the International Space Station, marking the extension of the Internet into space. (Astronauts at the ISS had used email and Twitter before, but these messages had been relayed to the ground through a NASA data link before being posted by a human proxy.) This personal Web access, which NASA calls the Crew Support LAN, uses the space station's high-speed Ku band microwave link. To surf the Web, astronauts can use a station laptop computer to control a desktop computer on Earth, and they can talk to their families and friends on Earth using Voice over IP equipment.
+
+Communication with spacecraft beyond earth orbit has traditionally been over point-to-point links through the Deep Space Network. Each such data link must be manually scheduled and configured. In the late 1990s NASA and Google began working on a new network protocol, Delay-tolerant networking (DTN) which automates this process, allows networking of spaceborne transmission nodes, and takes the fact into account that spacecraft can temporarily lose contact because they move behind the Moon or planets, or because space "weather" disrupts the connection. Under such conditions, DTN retransmits data packages instead of dropping them, as the standard TCP/IP internet protocol does. NASA conducted the first field test of what it calls the "deep space internet" in November 2008. Testing of DTN-based communications between the International Space Station and Earth (now termed Disruption-Tolerant Networking) has been ongoing since March 2009, and is scheduled to continue until March 2014.
+
+This network technology is supposed to ultimately enable missions that involve multiple spacecraft where reliable inter-vessel communication might take precedence over vessel-to-earth downlinks. According to a February 2011 statement by Google's Vint Cerf, the so-called "Bundle protocols" have been uploaded to NASA's EPOXI mission spacecraft (which is in orbit around the Sun) and communication with Earth has been tested at a distance of approximately 80 light seconds.
