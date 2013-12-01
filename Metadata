@@ -1,0 +1,31 @@
+Metadata
+
+http://en.wikipedia.org/wiki/Metadata
+
+The term metadata refers to "data about data". The term is ambiguous, as it is used for two fundamentally different concepts (types). 
+- Structural metadata is about the design and specification of data structures and is more properly called "data about the containers of data"; 
+- Descriptive metadata, about individual instances of application data, the data content. In this case, a useful description would be "data about data content" or "content about content" thus metacontent. Descriptive, Guide and the National Information Standards Organization concept of administrative metadata are all subtypes of metacontent.
+
+Metadata (metacontent) are traditionally found in the card catalogs of libraries. As information has become increasingly digital, metadata are also used to describe digital data using metadata standards specific to a particular discipline. By describing the contents and context of data files, the quality of the original data/files is greatly increased. For example, a webpage may include metadata specifying what language it is written in, what tools were used to create it, and where to go for more on the subject, allowing browsers to automatically improve the experience of users.
+
+Metadata (metacontent)are defined as the data providing information about one or more aspects of the data, such as:
+- Means of creation of the data
+- Purpose of the data
+- Time and date of creation
+- Creator or author of the data
+- Location on a computer network where the data were created
+- Standards used
+
+For example, a digital image may include metadata that describe how large the picture is, the color depth, the image resolution, when the image was created, and other data. A text document's metadata may contain information about how long the document is, who the author is, when the document was written, and a short summary of the document.
+
+Metadata are data. As such, metadata can be stored and managed in a database, often called a Metadata registry or Metadata repository. However, without context and a point of reference, it might be impossible to identify metadata just by looking at them. For example: by itself, a database containing several numbers, all 13 digits long could be the results of calculations or a list of numbers to plug into an equation - without any other context, the numbers themselves can be perceived as the data. But if given the context that this database is a log of a book collection, those 13-digit numbers may now be identified as ISBNs - information that refers to the book, but is not itself the information within the book.
+
+The term "metadata" was coined in 1968 by Philip Bagley, in his book "Extension of programming language concepts" where it is clear that he uses the term in the ISO 11179 "traditional" sense, which is "structural metadata" i.e. "data about the containers of data"; rather than the alternate sense "content about individual instances of data content" or metacontent, the type of data usually found in library catalogues. Since then the fields of information management, information science, information technology, librarianship and GIS? have widely adopted the term. In these fields the word metadata is defined as "data about data". While this is the generally accepted definition, various disciplines have adopted their own more specific explanation and uses of the term.
+
+Keywords:
+@metacontent
+@Philip Bagley
+@data about data
+@description
+@summary
+@context
