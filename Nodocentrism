@@ -16,14 +16,25 @@ characteristic of Networked Proximity (= nearness*), defined by Ulises Mejias: "
 
 “Nodocentrism means that while networks are extremely efficient at establishing links between nodes, they embody a bias against knowledge of – and engagement with – anything that is not a node in the same network. The point is not that nodocentrism in social networks impoverishes social life or devalues the near: nodes behave neither anti-socially (they thrive in linking to other nodes) nor anti-locally (they can link to other nodes in their immediate surrounding just as easily as they can link to remote nodes). The point, rather, is that nodocentrism constructs a social reality in which nodes can only see other nodes.”
 
+Ulises Mejias:
+"nearness in networks has little to do with physical distance. Instead, social relevancy is defined in terms of informational availability. If it exists in the network, it exists in reality; if it does not exist in the network, it might as well not exist. If it exists in the network, it can be experienced as near, because in the network the distance between nodes is zero. If it does not exist in the network, it is experienced as far or irrelevant, because the distance between a node and something that is not in the network is, for all practical purposes, infinite.
+
+I describe these rules governing interaction between nodes, and between nodes and what is outside of the network, as a form of nodocentrism. Basically, nearness in a network is constituted on the basis of nodes recognizing other nodes. Nodocentrism constructs a social reality in which nodes can only 'see' other nodes, and only nodes deserve to be accounted for. Now, I don't want you to misunderstand nodocentrism as some sort of argument against networks, implying that all networks are bad. Nodocentrism can generate new social realities and promote ways of understanding them that can be truly very helpful.
+
+I am interested, however, in what happens when nodocentrism goes from mediating our interactions with what is physically far to mediating our interactions with our immediate surroundings. What kind of social significance does the local aquire in nodocentrism? We hear that the network is good at mediating not only our relationship with the spatially distant (making it near and familiar) but that it can also get us re-acquainted with our local surroundings, the communities and neighborhoods that perhaps we have neglected lately as we've been spending too much time online. Now, we can continue to spend time online and re-engage with the local! Accessible, low-cost, and mobile technologies promise to deliver a form of 'hyperlocality' that re-connects us to our immediate surroundings in supposedly more meaningful ways, as this parody illustrates.
+
+
 *node: 
 - In communication networks, a node (Latin nodus, ‘knot’) is either a connection point, a redistribution point or a communication endpoint (some terminal equipment). The definition of a node depends on the network and protocol layer referred to. 
 - A physical network node is an active electronic device that is attached to a network, and is capable of sending, receiving, or forwarding information over a communications channel. 
 - A passive distribution point such as a distribution frame or patch panel is consequently not a node.
 
 Keywords:
+@Ulises Mejias
 @nodes
 @nearness
 @network
+@mediating
 @social media
 @availability
+@accessibility
