@@ -1,0 +1,27 @@
+Node
+- In communication networks, a node (Latin nodus, ‘knot’) is either a connection point, a redistribution point or a communication endpoint (some terminal equipment). The definition of a node depends on the network and protocol layer referred to. 
+- A physical network node is an active electronic device that is attached to a network, and is capable of sending, receiving, or forwarding information over a communications channel. 
+- A passive distribution point such as a distribution frame or patch panel is consequently not a node.
+
+In data communication, a physical network node may either be a data communication equipment (DCE) such as a modem, hub, bridge or switch; or a data terminal equipment (DTE) such as a digital telephone handset, a printer or a host computer, for example a router, a workstation or a server.
+
+If the network in question is a LAN or WAN, every LAN or WAN node (that are at least data link layer devices) must have a MAC address, typically one for each network interface controller it possesses. Examples are computers, packet switches, xDSL modems (with Ethernet interface) and wireless LAN access points. Note that a hub constitutes a physical network node, but does not constitute a LAN network node, since a hubbed network logically is a bus network. Analogously, a repeater or PSTN modem (with serial interface) is a physical network node but not a LAN node in this sense.
+
+If the network in question is the Internet or an Intranet, many physical network nodes are host computers, also known as Internet nodes, identified by an IP address, and all hosts are physical network nodes. However, some datalink layer devices such as switches, bridges and WLAN access points do not have an IP host address (except sometimes for administrative purposes), and are not considered to be Internet nodes or hosts, but as physical network nodes and LAN nodes.
+
+*Nodocentrism - Ulises Mejias:
+"nearness in networks has little to do with physical distance. Instead, social relevancy is defined in terms of informational availability. If it exists in the network, it exists in reality; if it does not exist in the network, it might as well not exist. If it exists in the network, it can be experienced as near, because in the network the distance between nodes is zero. If it does not exist in the network, it is experienced as far or irrelevant, because the distance between a node and something that is not in the network is, for all practical purposes, infinite.
+I describe these rules governing interaction between nodes, and between nodes and what is outside of the network, as a form of nodocentrism. Basically, nearness in a network is constituted on the basis of nodes recognizing other nodes. Nodocentrism constructs a social reality in which nodes can only 'see' other nodes, and only nodes deserve to be accounted for. Now, I don't want you to misunderstand nodocentrism as some sort of argument against networks, implying that all networks are bad. Nodocentrism can generate new social realities and promote ways of understanding them that can be truly very helpful.
+I am interested, however, in what happens when nodocentrism goes from mediating our interactions with what is physically far to mediating our interactions with our immediate surroundings. What kind of social significance does the local aquire in nodocentrism? We hear that the network is good at mediating not only our relationship with the spatially distant (making it near and familiar) but that it can also get us re-acquainted with our local surroundings, the communities and neighborhoods that perhaps we have neglected lately as we've been spending too much time online. Now, we can continue to spend time online and re-engage with the local! Accessible, low-cost, and mobile technologies promise to deliver a form of 'hyperlocality' that re-connects us to our immediate surroundings in supposedly more meaningful ways, as this parody illustrates.
+
+Keywords:
+@network
+@nodocentrism
+@communication
+@device
+@modem
+@hub
+@host computer
+@server
+@router
+@LAN
