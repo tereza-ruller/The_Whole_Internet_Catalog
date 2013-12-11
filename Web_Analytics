@@ -1,0 +1,58 @@
+Web analytics
+
+Web analytics is the measurement, collection, analysis and reporting of internet data for purposes of understanding and optimizing web usage.
+Web analytics is not just a tool for measuring web traffic but can be used as a tool for business and market research, and to assess and improve the effectiveness of a web site. Web analytics applications can also help companies measure the results of traditional print or broadcast advertising campaigns. It helps one to estimate how traffic to a website changes after the launch of a new advertising campaign. Web analytics provides information about the number of visitors to a website and the number of page views. It helps gauge traffic and popularity trends which is useful for market research.
+There are two categories of web analytics; off-site and on-site web analytics.
+Off-site web analytics refers to web measurement and analysis regardless of whether you own or maintain a website. It includes the measurement of a website's potential audience (opportunity), share of voice (visibility), and buzz (comments) that is happening on the Internet as a whole.
+On-site web analytics measure a visitor's behavior once on your website. This includes its drivers and conversions; for example, the degree to which different landing pages are associated with online purchases. On-site web analytics measures the performance of your website in a commercial context. This data is typically compared against key performance indicators for performance, and used to improve a web site or marketing campaign's audience response. Google Analytics is the most widely used on-site web analytics service; although new tools are emerging that provide additional layers of information, including heat maps and session replay.
+Historically, web analytics has referred to on-site visitor measurement. However in recent years this has blurred, mainly because vendors are producing tools that span both categories.
+
+Page tagging
+Concerns about the accuracy of logfile analysis in the presence of caching, and the desire to be able to perform web analytics as an outsourced service, led to the second data collection method, page tagging or 'Web bugs'.
+In the mid-1990s, Web counters were commonly seen — these were images included in a web page that showed the number of times the image had been requested, which was an estimate of the number of visits to that page. In the late 1990s this concept evolved to include a small invisible image instead of a visible one, and, by using JavaScript, to pass along with the image request certain information about the page and the visitor. This information can then be processed remotely by a web analytics company, and extensive statistics generated.
+The web analytics service also manages the process of assigning a cookie to the user, which can uniquely identify them during their visit and in subsequent visits. Cookie acceptance rates vary significantly between web sites and may affect the quality of data collected and reported.
+
+Advantages of page tagging
+The main advantages of page tagging over logfile analysis are as follows:
+Counting is activated by opening the page (given that the web client runs the tag scripts), not requesting it from the server. If a page is cached, it will not be counted by the server. Cached pages can account for up to one-third of all pageviews. Not counting cached pages seriously skews many site metrics. It is for this reason server-based log analysis is not considered suitable for analysis of human activity on websites.
+Data is gathered via a component ("tag") in the page, usually written in JavaScript, though Java can be used, and increasingly Flash is used. Ajax can also be used in conjunction with a server-side scripting language (such as PHP) to manipulate and (usually) store it in a database, basically enabling complete control over how the data is represented.
+The script may have access to additional information on the web client or on the user, not sent in the query, such as visitors' screen sizes and the price of the goods they purchased.
+Page tagging can report on events which do not involve a request to the web server, such as interactions within Flash movies, partial form completion, mouse events such as onClick, onMouseOver, onFocus, onBlur etc.
+The page tagging service manages the process of assigning cookies to visitors; with logfile analysis, the server has to be configured to do this.
+Page tagging is available to companies who do not have access to their own web servers.
+Lately page tagging has become a standard in web analytics.
+
+Click analytics
+Clickpath Analysis with referring pages on the left and arrows and rectangles differing in thickness and expanse to symbolize movement quantity.
+Click analytics is a special type of web analytics that gives special attention to clicks.
+Commonly, click analytics focuses on on-site analytics. An editor of a web site uses click analytics to determine the performance of his or her particular site, with regards to where the users of the site are clicking.
+Also, click analytics may happen real-time or "unreal"-time, depending on the type of information sought. Typically, front-page editors on high-traffic news media sites will want to monitor their pages in real-time, to optimize the content. Editors, designers or other types of stakeholders may analyze clicks on a wider time frame to aid them assess performance of writers, design elements or advertisements etc.
+Data about clicks may be gathered in at least two ways. Ideally, a click is "logged" when it occurs, and this method requires some functionality that picks up relevant information when the event occurs. Alternatively, one may institute the assumption that a page view is a result of a click, and therefore log a simulated click that led to that page view.
+
+*wikipedia
+
+What Google Analytics Can’t Tell You
+We love Google Analytics, we always have. Just like ClickTale it’s free, easy to set up, comes with a lot of helpful tools, and is a great way to collect analytical information about your site. However, there are several things Google Analytics just can’t tell you, and in this post we’re going to talk about two of them:
+
+Google Analytics cannot tell you anything about bounced visitors! These are visitors that come to your site, only look at the page they land on, and decide to leave. These are the potential customers you didn’t get, they are the lost sales, lost leads and lost profits.
+Google Analytics gives you no information about how long your visitors actually interact with your online content. All it can see is the amount of time a page was left open, which doesn’t tell you anything about how long your visitors were actually looking at your content.
+
+*http://blog.clicktale.com/2009/10/14/what-google-analytics-cant-tell-you-part-1/
+
+Keywords:
+@collection
+@data
+@user
+@web usage
+@web traffic
+@tool for measuring
+@advertising
+@marketing
+@audience response
+@page tagging
+@tag
+@click analytics
+@click
+@information
+@Google
+@gathering informations
