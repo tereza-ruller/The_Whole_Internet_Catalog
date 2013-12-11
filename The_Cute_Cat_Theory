@@ -1,0 +1,60 @@
+The Cute Cat Theory of Digital Activism
+
+"The Web 1.0 was invented so physicists could share research papers. Web 2.0 was invented so we could share cute pictures of our cats." quote by Ethan Zuckerman, research fellow at the Berkman Center for Internet and Society at Harvard Law School, director of the Center for Civic Media at MIT, teacher at MIT’s Media Lab and the author of “Rewire: Digital Cosmopolitans in the Age of Connection”, published by W. W. Norton in June 2013. 
+
+The tools of Web 2.0, while designed for mundane uses, can be extremely powerful in the hands of digital activists, especially those in environments where free speech is limited.
+
+"With web 2.0, we’ve embarced the idea that people are going to share pictures of their cats, and now we build sophisticated tools to make that easier to do. as a result, we’re creating a wealth of tech that’s extremely helpful for activists. There are twin revolutions going on – the ease of creating content and the ease of sharing it with local and global audiences." Ethan Zuckerman
+
+Blocking banal content on the internet is a self-defeating proposition. It teaches people how to become dissidents – they learn to find and use anonymous proxies, which happens to be a key first step in learning how to blog anonymously. Every time you force a government to block a web 2.0 site – cutting off people’s access to cute cats – you spend political capital. Our job as online advocates is to raise that cost of censorship as high as possible.
+
+So why don’t governments block only he offensive speech? Why would governments be stupid enough to close off these tools entirely? It’s a reasonable question and one that’s an active research topic. One answer is that it’s surprisingly difficult to censor the web well. (Pakistan’s recent shutdown of YouTube shows one remarkably stupid and dangerous way to screw up and overblock web traffic.)
+
+If you want to prevent your users from accessing online content, you’ve got four basic options. You can block keywords, block URLs, pollute your DNS or block IPs. It’s surprisingly hard to block keywords – you need to open and examine all the packets crossing your network. China does a bit of this, but mostly blocks keywords within URLs – it’s prohibitively expensive to examine every packet for an entire nation and check against a blocklist. URL blocking simply doesn’t work very well – it’s easy to rewrite a URL and access the same content. DNS blocking is very simple, but it tends to backfire – your smarter users simply switch towards using an unpolluted DNS and you have no way to control their behavior with this technique in the future. And so, most repressive governments block IPs, which limits access to banal as well as sensitive content.
+
+But perhaps this isn’t stupidity on the part of nations. When Pakistan blocks YouTube, it limits traffic to the site. Google notices these sorts of things. Perhaps it’s coincidental that the video named by Pakistan has been removed from YouTube due to a terms of service violation – perhaps not. But while advocates try to raise the price of censorship for governments, smart governments are raising the price for noncompliance for Web 2.0 companies.
+
+My colleagues at the Open Net Initiative began documenting net censorship a bit more than five years ago. At that point, Saudi Arabia and China were censoring widely. Now at least two dozen nations censor the net regularly, and more may be participating in “event-based filtering”, blocking access to political sites before a key election, for instance. My fear, in the medium to long term, is that every nation that constrains freedom of the press will begin filtering the net, realizing that the Internet is where important press takes place these days.
+
+Of course, the activists win sometimes too. When Google Maps became accessible in Bahrain, it let Bahrani activists answer a pressing question in that small, crowded nation – who owns all the land? From the air, it becomes pretty clear that large chunks of the nation are reserved for palaces owned by the royal family.
+
+Twitter is also becoming more useful in crisis reporting. Viktor Markovic used a Twitter feed to report live on events in Belgrade after Kosovo declared independence; Juliana Rotich has used her feed to report live from Eldoret during post-election violence. And mobile phones are allowing people to report incidents in Kenya and include them within the map on Ushahidi.
+
+Twitter is far from the perfect tool – it’s centralized and easily blocked. But it’s also used for lots of dumb purposes, which means it passes the cute cats test. Lots of the tools that have become most useful to activists have characteristics that un-recommend them for activist uses. Facebook, which has helped organize major protests against the FARC in Colombia, is notoriously bad about letting users pull data out of the system. Imran Jamal spoke about the challenge of trying to move a community of 400,000 users from Facebook to Avaaz, so they could fundraise more easily. (See “Pros and Cons of Facebook Activist“.) One challenge for activists using Web2.0 tools is figuring out when it’s time to get real and get onto dedicated platforms.
+
+What happens when governments begin taking Web2.0 activism seriously? A funny example comes from Belarus. Belarussian leader Alexander Lukashenko noticed that YouTube was beginning to carry a wealth of anti-Lukashenko content, and suggested the Belarussian government might build it’s own YouTube competitor. Belarussian bloggers went one better and built LuNet, a set of parody sites designed to represent a Lukashenko-compliant read/write web. Perhaps the best of the sites was a Google parody – most searches resulted in a page telling you that the KGB was on lunch break and asking you to try again later when they could watch what you were doing. (See Global Voices Advocacy coverage of the story.)
+
+More competent regimes have managed to exert significantly more control. China filters the internet more effectively than any other nation, using a combination of keyword filters, IP blocks and some DNS fiddling. The system is extremely complicated, involving filtering at a national boundary level and throughout the network, with some blocking taking place deep within the national network. China uses some techniques not widely seen elsewhere, including sending RSET packets when certain keywords are detected to knock users offline.
+
+But that’s not the sinister part. Effective as the Great Firewall may be (and, actually, it’s not that effective – lots of dissidents get around it using various proxy techniques), the most relevant Chinese censorship takes place within Chinese Web 2.0 companies – including US companies operating servers in China. There’s an incredible wealth of Web 2.0 startups in China. These companies allow Chinese users to share video, post photos and write blogs. They’re much more useful to the average Chinese user as the tools and content are in Chinese, not English. And, unlike most popular web 2.0 tools, they’re not blocked in China.
+
+Some Chinese bloggers have responded by being extremely creative in their use of images. Some Chinese bloggers began posting images of river crabs on their blogs. The joke is that the term for “river crab” sounds very similar to the word “harmonize”, a term that had become slang for “censored” – “My blog just got harmonized.” The term “harmonized” became so popular that it became blocked. So Chinese bloggers began to refer to their blogs as having been “river crabbed”. The watches are a pun on “the three represents“, a political philosophy put forward by Jiang Zemin. This is also a commonly blocked term, so has been rewritten as “wears three watches”… which explains the oddly dressed river crab.
+
+Here’s the thing – for the vast majority of Chinese internet users, they’re encountering a much more free information environment than their parents experienced. Michael Anti argues that Chinese society is much freer than the US in terms of personal behavior, especially around premarital sex and homosexuality. The vast majority of young Chinese are enjoying these personal freedoms and are willing to accept a world in which political freedom is somewhat constrained.
+
+China’s censorship genius is that they’ve found a way to let people have their cute cats and have censorship as well. While China will block sites like Human Rights Watch, they won’t block domestic Web 2.0 sites, and hence the collateral damage from blocking banal content doesn’t draw non-activists to become aware of activist issues. Is this unique to China, or will we see this technique spread? It’s hard to imagine Ethiopia, for instance, being capable of building their own Amharic internet applications and blocking all Web 2.0 tools.
+
+It’s also interesting to see what tools China won’t block. GMail, thus far, has remained unblocked – Anti theorizes that it’s popular with the communist party. Skype is unblocked, and it has some intriguing holes in it – Skype voice chatrooms are tailor-made to serve as pirate radio stations. Pipe a podcast into a chat room and you’re broadcasting audio via an encrypted system to users around the world. And China’s unlikely to block MMOGs, even if people periodically stand on hills inside games and shout out the IP addresses of proxy servers.
+
+- See more at: http://www.ethanzuckerman.com/blog/2008/03/08/the-cute-cat-theory-talk-at-etech/#sthash.Y5qVQPQH.dpuf
+
+Norton on a book Rewire: 
+We live in an age of connection, one that is accelerated by the Internet. This increasingly ubiquitous, immensely powerful technology often leads us to assume that as the number of people online grows, it inevitably leads to a smaller, more cosmopolitan world. We’ll understand more, we think. We’ll know more. We’ll engage more and share more with people from other cultures. In reality, it is easier to ship bottles of water from Fiji to Atlanta than it is to get news from Tokyo to New York.
+
+In Rewire, media scholar and activist Ethan Zuckerman explains why the technological ability to communicate with someone does not inevitably lead to increased human connection. At the most basic level, our human tendency to “flock together” means that most of our interactions, online or off, are with a small set of people with whom we have much in common. In examining this fundamental tendency, Zuckerman draws on his own work as well as the latest research in psychology and sociology to consider technology’s role in disconnecting ourselves from the rest of the world.
+
+For those who seek a wider picture—a picture now critical for survival in an age of global economic crises and pandemics—Zuckerman highlights the challenges, and the headway already made, in truly connecting people across cultures. From voracious xenophiles eager to explore other countries to bridge figures who are able to connect one culture to another, people are at the center of his vision for a true kind of cosmopolitanism. And it is people who will shape a new approach to existing technologies, and perhaps invent some new ones, that embrace translation, cross-cultural inspiration, and the search for new, serendipitous experiences.
+
+- See more at: http://www.ethanzuckerman.com/blog/rewire-digital-cosmopolitans-in-the-age-of-connection/#sthash.PkJIyuhU.dpuf
+
+http://www.ethanzuckerman.com/blog/2008/03/08/the-cute-cat-theory-talk-at-etech/
+
+Keywords:
+@Ethan Zuckerman
+@web
+@digital activism
+@Twitter
+@blogging
+@China
+@servers
+@YouTube
