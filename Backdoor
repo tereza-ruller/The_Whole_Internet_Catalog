@@ -1,0 +1,20 @@
+Backdoor
+
+A backdoor is a method of bypassing normal authentication procedures. Once a system has been compromised, one or more backdoors may be installed in order to allow easier access in the future. Backdoors may also be installed prior to malicious software, to allow attackers entry.
+The idea has often been suggested that computer manufacturers preinstall backdoors on their systems to provide technical support for customers, but this has never been reliably verified. Crackers typically use backdoors to secure remote access to a computer, while attempting to remain hidden from casual inspection. To install backdoors crackers may use Trojan horses, worms, or other methods.
+
+The threat of backdoors surfaced when multiuser and networked operating systems became widely adopted. Petersen and Turn discussed computer subversion in a paper published in the proceedings of the 1967 AFIPS Conference. They noted a class of active infiltration attacks that use "trapdoor" entry points into the system to bypass security facilities and permit direct access to data. The use of the word trapdoor here clearly coincides with more recent definitions of a backdoor. However, since the advent of public key cryptography the term trapdoor has acquired a different meaning. More generally, such security breaches were discussed at length in a RAND Corporation task force report published under ARPA sponsorship by J.P. Anderson and D.J. Edwards in 1970.
+
+Many computer worms, such as Sobig and Mydoom, install a backdoor on the affected computer (generally a PC on broadband running Microsoft Windows and Microsoft Outlook). Such backdoors appear to be installed so that spammers can send junk e-mail from the infected machines. Others, such as the Sony/BMG rootkit distributed silently on millions of music CDs through late 2005, are intended as DRM measures — and, in that case, as data gathering agents, since both surreptitious programs they installed routinely contacted central servers.
+A traditional backdoor is a symmetric backdoor: anyone that finds the backdoor can in turn use it. The notion of an asymmetric backdoor was introduced by Adam Young and Moti Yung in the Proceedings of Advances in Cryptology: Crypto '96. An asymmetric backdoor can only be used by the attacker who plants it, even if the full implementation of the backdoor becomes public (e.g., via publishing, being discovered and disclosed by reverse engineering, etc.). Also, it is computationally intractable to detect the presence of an asymmetric backdoor under black-box queries. This class of attacks have been termed kleptography; they can be carried out in software, hardware (for example, smartcards), or a combination of the two. The theory of asymmetric backdoors is part of a larger field now called cryptovirology.
+
+Keywords:
+access
+@malware
+@attack
+@hackers
+@data
+@computer woms
+@rootkit
+@cryptology
+@cryptovirology
