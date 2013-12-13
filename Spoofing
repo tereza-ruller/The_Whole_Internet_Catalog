@@ -1,0 +1,20 @@
+Spoofing is the creation of TCP/IP packets using somebody else's IP address. Routers use the "destination IP" address in order to forward packets through the Internet, but ignore the "source IP" address. That address is only used by the destination machine when it responds back to the source.
+A common misconception is that "IP spoofing" can be used to hide your IP address while surfing the Internet, chatting on-line, sending e-mail, and so forth. This is generally not true. Forging the source IP address causes the responses to be misdirected, meaning you cannot create a normal network connection. However, IP spoofing is an integral part of many network attacks that do not need to see responses (blind spoofing).
+
+Examples of spoofing:
+- man-in-the-middle: packet sniffs on link between the two end points, and can therefore pretend to be one end of the connection
+- routing redirect: redirects routing information from the original host to the hacker's host (this is another form of man-in-the-middle attack).
+- source routing: redirects indvidual packets by hackers host
+- blind spoofing: predicts responses from a host, allowing commands to be sent, but can't get immediate feedback.
+- flooding: SYN flood fills up receive queue from random source addresses; smurf/fraggle spoofs victims address, causing everyong respond to the victim.
+
+http://www.iss.net/security_center/advice/Underground/Hacking/Methods/Technical/Spoofing/default.htm
+
+Keywords:
+@TCP
+@IP adress
+@router
+@Internet
+@network attack
+@routing redirect
+@flooding
