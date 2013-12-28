@@ -1,26 +1,2 @@
 Apophenia
-Apophenia is the experience of seeing patterns or connections in random or meaningless data.
-In 2008, Michael Shermer coined the word "patternicity", defining it as "the tendency to find meaningful patterns in meaningless noise". In The Believing Brain (2011), Shermer says that we have "the tendency to infuse patterns with meaning, intention, and agency", which Shermer calls "agenticity". In 2011, psychologist David Luke proposed that apophenia is one end of a spectrum and that the opposite behaviour, the tendency to attribute chance probability to apparently patterned data, can be called "randomania". Luke indicates that this often happens in the hand waving away of everyday phenomena, such as apparent dream precognition, and that this occurs even if scientific research suggests that the phenomena may be genuine.
-
-"The propensity to see connections between seemingly unrelated objects or ideas most closely links psychosis to creativity ... apophenia and creativity may even be seen as two sides of the same coin." Peter Brugger of the Department of Neurology
-http://www.skepdic.com/apophenia.html
-
-Apophenia - information analysis program
-Apophenia is an open statistical library for working with data sets and statistical models. It provides functions on the same level as those of the typical stats package but gives the user more flexibility to be creative in model-building. The core functions are written in C. It is written to scale well, to comfortably work with gigabyte data sets, million-step simulations, or computationally-intensive agent-based models. If you have tried using other open source tools for computationally demanding work and found that those tools weren't up to the task, then Apophenia is the library for you.
-http://apophenia.info/
-
-Keywords:
-@patterns
-@data
-@patternicity
-@noise
-@The Believing Brain
-@agenticity
-@randomania
-@creativity
-@open source
-@library
-@C language
-@statistic
-@information analysis
-@simulations
+Apophenia is the experience of seeing patterns or connections in random or meaningless data. In 2008, Michael Shermer coined the word "patternicity", defining it as "the tendency to find meaningful patterns in meaningless noise". In The Believing Brain (2011), Shermer says that we have "the tendency to infuse patterns with meaning, intention, and agency", which Shermer calls "agenticity". In 2011, psychologist David Luke proposed that apophenia is one end of a spectrum and that the opposite behaviour, the tendency to attribute chance probability to apparently patterned data, can be called "randomania". Luke indicates that this often happens in the hand waving away of everyday phenomena, such as apparent dream precognition, and that this occurs even if scientific research suggests that the phenomena may be genuine. "The propensity to see connections between seemingly unrelated objects or ideas most closely links psychosis to creativity ... apophenia and creativity may even be seen as two sides of the same coin." Peter Brugger of the Department of Neurology.
